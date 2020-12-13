@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Erpi</string>
+
+    <string name="content_price">Rp.15.000</string>
+    <string name="contect_text">PENTING.
+MATA GELANG BISA PILIH. CARANYA:
+Untuk insisial hurufnya/mata gelang, tolong tulis  yg diinginkan di catatan/keterangan tambahan pada saat checkout, jika tidak akan dikirimkan tanpa huruf yaa.</string>
+    <string name="content_space_deskripsi">Deskripsi</string>
+    <string name="content_spaces_size">Color/warna : Black, Broken white, Army, Cream nude, Navy, Maroon, Purple, Grey, Soft pink, Shocking pink, Mint, Deep brown, Yellow, Mustard, Peach, Soft green, Orange, Red, Blue
+Size/ukuran : Men, Women
+5522614/1550764272</string>
+    <string name="content_spaces_spesifikasi">Spesifikasi</string>
+    <string name="content_spaces_barang">Perhiasan dan Aksesoris</string>
+</resources>
